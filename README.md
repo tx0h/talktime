@@ -9,6 +9,8 @@ Press the button with the talkers name on it, when the participant starts to spe
 
 Press the [stop timer] button on a break and the [reset] button to restart the complete session. All the information will not get stored. Make a screenshot whenever you like.
 
+![alt text](https://repository-images.githubusercontent.com/336625262/33222600-68d9-11eb-90cc-969ee7a87738)
+
 The project is written in node and utilizes the express web server.
 
 Prerequisites:
